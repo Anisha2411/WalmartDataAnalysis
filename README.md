@@ -1,4 +1,4 @@
-Walmart Data Analysis
+**#WalmartDataAnalysis**
 
 About
 
@@ -38,9 +38,6 @@ This analysis aims to answer the question of the sales trends of product. The re
 3.	Customer Analysis
 This analysis aims to uncover the different customers segments, purchase trends and the profitability of each customer segment.
 
-
-
-# WalmartDataAnalysis
 METHODS
 1.	Data Wrangling: This is the first step where inspection of data primarily used for data cleaning, enriching and transforming the data. In this step, we make sure NULL values and missing values are detected and data replacement methods are used to replace, missing or NULL values.
 •	Build a database
